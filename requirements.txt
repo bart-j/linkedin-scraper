@@ -1,0 +1,7 @@
+oauth2
+simplejson
+py2neo
+Unidecode
+httplib2
+requests
+gdata
